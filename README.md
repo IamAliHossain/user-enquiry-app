@@ -1,27 +1,28 @@
-User Enquiry App
-Overview
-The User Enquiry App is a full-stack web application engineered to facilitate streamlined management of user-submitted inquiries. It offers an intuitive front-end interface for end-users and an administrative backend for efficient handling and response workflows.
+# User Enquiry App
 
-Core Features
-Interactive user inquiry form with real-time submission
+## Overview
 
-Administrative dashboard for reviewing and managing inquiries
+The **User Enquiry App** is a full-stack web application engineered to facilitate streamlined management of user-submitted inquiries. It offers an intuitive front-end interface for users and an administrative backend for efficient handling and response workflows.
 
-Persistent data storage and retrieval using a document-based database
+## Core Features
 
-Seamless front-end and back-end integration for efficient communication flow
+- Interactive user inquiry form with real-time submission  
+- Administrative dashboard for reviewing and managing inquiries  
+- Persistent data storage using MongoDB  
+- Seamless integration between frontend and backend components
 
-Technology Stack
-Frontend: React (JavaScript)
+## Technology Stack
 
-Backend: Node.js with Express.js
+- **Frontend**: React (JavaScript)  
+- **Backend**: Node.js with Express.js  
+- **Database**: MongoDB
 
-Database: MongoDB (NoSQL)
+## Project Objective
 
-Project Objective
-The project demonstrates applied knowledge of full-stack web development practices, focusing on RESTful API design, dynamic data handling, and user-centric interface development. It reflects competency in building scalable and maintainable applications using modern JavaScript technologies.
+This project showcases practical full-stack development skills, emphasizing RESTful API design, dynamic data handling, and user-focused UI development. It reflects experience in building scalable and maintainable applications using modern JavaScript technologies.
 
-Contact
-Ali Hossain
-📧 alihoosin.cse.pstu@gmail.com
+## Contact
+
+**Ali Hossain**  
+📧 alihoosin.cse.pstu@gmail.com  
 📱 01798322164
